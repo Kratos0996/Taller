@@ -16,5 +16,5 @@ fun main() {
         else -> "Operación no válida"
     }
 
-    println("Resultado = $resultado")
+    println("Resultado: $resultado")
 }
