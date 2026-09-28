@@ -1,7 +1,7 @@
 fun main() {
     var num1 = 0.0
     var num2 = 0.0
-    var operacion: String = " "
+    var operacion = " "
 
     print("Ingrese la operacion que desea realizar (suma, resta, multiplicacion o division): ")
     operacion = readln().lowercase()
