@@ -22,9 +22,9 @@ kotlin-beginner-workshop/
    └── 3-Tabla-multiplicar.kt
    └── 4-analisis-lista.kt
    └── 5-funciones-matematicas.kt
-   └── Main.kt
-   └── Main.kt
-   └── Main.kt
+   └── 6-Gestion-productos.kt
+   └── 7-Agenda-contactos.kt
+   └── 8-Manejo-nulos.kt
 ```
 
 ##  Ejercicios
